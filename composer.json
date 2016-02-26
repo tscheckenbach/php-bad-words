@@ -1,5 +1,5 @@
 {
-  "name": "expalmer/php-bad-words",
+  "name": "tscheckenbach/php-bad-words",
   "description": "PHP Bad words filtering. Checks for existence of bad word in a string but checks too an alone word or among the string",
   "keywords": ["bad","words"],
   "license": "MIT",
@@ -7,6 +7,12 @@
     {
       "name": "Palmer Oliveira",
       "email": "expalmer@gmail.com"
+    },
+    {
+        "name": "Thorsten Scheckenbach",
+        "email": "mail@tscheckenbach.me",
+        "homepage": "http://www.tscheckenbach.me",
+        "role": "Developer"
     }
   ],
   "require-dev": {
@@ -21,4 +27,3 @@
     }
   }
 }
-
